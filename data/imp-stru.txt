@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------------------
+HTS RECORD LAYOUT
+--------------------------------------------------------------------------------------
+
+CHARACTER       NAME            DESCRIPTION OF FIELD
+1-10            COMMODITY       HTS
+15-65           Descrip_1       Description of 10-digit commodity - Short
+70-219          Descrip_2       Description of 10-digit commodity - Long
+225-227         QUANTITY_1      Alphabetic abbreviation of the first unit of quantity
+233-235         QUANTITY_2      Second unit of quantity
+241-245         SITC            Standard International Trade Classification Revision 4 Code
+251-255         END_USE         End use classification
+261             USDA            Agriculture or non-agriculture product code
+266-271         NAICS           NAICS classification
+277-278         HITECH          HiTech classification
+
+--------------------------------------------------------------------------------------
+Note  : The HTS record layout applies to IMP-CODE.TXT.  These files are available
+        on the Internet at http://www.census.gov/foreign-trade/schedules/b/index.html#download
+
+Source: U.S. Census Bureau, Foreign Trade Division, Washington, DC 20233
+--------------------------------------------------------------------------------------
