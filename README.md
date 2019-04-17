@@ -2,7 +2,7 @@
 
 ### Usage
 #### In the browser
-- You can run this interactively in binder! Click the badge below.
+- You can run this interactively in binder! Click the badge here.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmoscardi/fedcasic_2019/master)
 
 OR
