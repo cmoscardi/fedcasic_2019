@@ -4,7 +4,9 @@
 #### In the browser
 - You can run this interactively in binder! Click the badge below.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmoscardi/fedcasic_2019/master)
+
 OR
+
 - Click the `schedule_b.ipynb` link above to open and view the notebook file.
 
 #### In Jupyter
