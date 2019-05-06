@@ -1,4 +1,4 @@
-## FedCSIC 2019 Workshop: Rapidly Prototyping a Machine Learning Pipeline
+## FedCASIC 2019 Workshop: Rapidly Prototyping a Machine Learning Pipeline
 
 ### Usage
 #### In the browser
